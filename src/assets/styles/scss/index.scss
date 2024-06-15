@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Monserrat';
+    src: url('../../fonts/Montserrat-Regular.woff');
+  }
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #111B24;
+    color: white;
+    font-family: 'Monserrat';
+}
+#app {
+    max-width: 1920px;
+    margin: 0 auto;
+}
